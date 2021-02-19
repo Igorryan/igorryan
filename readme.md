@@ -11,4 +11,4 @@
 
 📓 ㅤMy portfolio: <a target="_blank" href="https://igorryan.dev">igorryan.dev</a>
 
-☕️ ㅤI can't offer a coffee here yet, but we can chat about Javascript and friends, <a target="_blank" href="https://www.linkedin.com/in/igorryan/">say hi to me!</a>
+☕️ ㅤI can't offer you a coffee here yet, but we can talk about the future of our planet or anything else, <a target="_blank" href="https://www.linkedin.com/in/igorryan/">say hi to me!</a>
